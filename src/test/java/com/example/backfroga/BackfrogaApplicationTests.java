@@ -1,4 +1,4 @@
-package com.jz;
+package com.example.backfroga;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
