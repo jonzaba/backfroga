@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- Información básica del proyecto -->
-    <groupId>com.example</groupId>
-    <artifactId>backend</artifactId>
+    <groupId>com.jz</groupId>
+    <artifactId>backfroga</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>backend</name>
-    <description>Backend REST API using Spring Boot</description>
+    <name>backfroga</name>
+    <description>Backfroga REST API using Spring Boot</description>
 
     <!-- Parent de Spring Boot -->
     <parent>

@@ -1,3 +1,5 @@
+package com.jz.model;
+
 // Persona.java
 import javax.persistence.Entity;
 import javax.persistence.Id;

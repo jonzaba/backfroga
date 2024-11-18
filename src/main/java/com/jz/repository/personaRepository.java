@@ -1,3 +1,5 @@
+package com.jz.repository;
+
 // PersonaRepository.java
 import org.springframework.data.jpa.repository.JpaRepository;
 

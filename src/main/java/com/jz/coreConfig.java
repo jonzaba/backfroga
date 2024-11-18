@@ -1,3 +1,5 @@
+package com.jz;
+
 @Configuration
 public class CorsConfig implements WebMvcConfigurer {
 
