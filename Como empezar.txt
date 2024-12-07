@@ -1,0 +1,22 @@
+para ejecutar en local:
+mvn spring-boot:run
+
+
+el usuario es user y el password se ve en la ejecucion anterior(en este momento, pero igual cambia):
+bdfb1e63-321d-4287-9878-2b030cb1c910
+
+para probar que fucniona:
+http://localhost:8080/api/hello
+
+
+para crear el jar desde maven:
+mvn clean package
+
+para subir el jar al repositorio:
+git add -f target/backfroga-0.0.1-SNAPSHOT.jar
+
+
+para actualizar el repositorio:
+git add .
+git commit -m "razon commit...."
+git push origin main

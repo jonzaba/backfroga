@@ -11,6 +11,6 @@ public class ApiController {
 
     @GetMapping("/hello")
     public ResponseEntity<String> sayHello() {
-        return ResponseEntity.ok("Hello from the backend!");
+        return ResponseEntity.ok("Hello from the backend (JON call api)!");
     }
 }
