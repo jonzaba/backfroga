@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: backfroga
-    env: java
-    buildCommand: ""
-    startCommand: java -jar target/backfroga-0.0.1-SNAPSHOT.jar
-    envVars:
-      - key: JAVA_VERSION
-        value: 21
